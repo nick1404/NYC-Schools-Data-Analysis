@@ -12,6 +12,6 @@ The NYC schools data was loaded from a couple of files:
 - **class_size.csv** - Class sizes
 - **demographics.csv** - Ethnic backgrounds of students per grade
 - **graduation.csv** - Numbers of students that have graduated or dropped out 
-- **hs_directory.csv** - School info and adresses
+- **hs_directory.csv** - A directory of high schools
 - **sat_results.csv** - SAT average score per school for different subjects
 - **survey_d75.txt** & **survey_all.txt** - Survey of students', parents' and teachers' perceptions of their school's academic standards, safety etc.
