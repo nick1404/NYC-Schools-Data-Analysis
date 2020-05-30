@@ -2,7 +2,7 @@
 
 The data from this project was taken from [Dataquest](https://www.dataquest.io/m/217-guided-project-analyzing-nyc-high-school-data/).
 
-The main objective of the analysis was to investigate the **gender and racial differences in SAT scores** between schools in New York City and investigate **the differences between students', teachers' and parents' opinions** on academic standards and safety in their school.
+The main objective of the analysis was to investigate the **gender and racial differences in SAT scores** between schools in New York City and investigate **the differences between students' and teachers' perceptions** on academic standards and safety in their school.
 Additionally, a correlation between AP test takers and SAT scores was tested. 
 
 I have used **Jupyter Notebooks** and the following **Python libraries**: pandas, matplotlib and numpy.
