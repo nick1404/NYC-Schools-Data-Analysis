@@ -1,4 +1,4 @@
-# NYC-Schools-Data-Analysis
+# NYC Schools Data Analysis
 
 The data from this project was taken from [Dataquest](https://www.dataquest.io/m/217-guided-project-analyzing-nyc-high-school-data/).
 
